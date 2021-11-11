@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Brijesh-M
+- 👋 Hi, I’m Brijesh.M
 - 👀 I’m interested in python programming
-- 🌱 I’m currently learning python,html,css,js
-- 💞️ I’m looking to collaborate on software development
+- 🌱 I’m currently learning python
+- 🤝 I’m looking to collaborate on software development
 - 📫 How to reach me instagram--/
 
 <!---
